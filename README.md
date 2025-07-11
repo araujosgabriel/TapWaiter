@@ -35,7 +35,7 @@ No lado do atendente, um módulo central recebe as chamadas e as organiza automa
 - Organização da ordem de chamados
 - Aumento da satisfação do cliente
 - Autonomia de meses com duas pilhas AAA
-- Sistema escalável com até 20 mesas (ou mais)
+- Sistema escalável para mais de 50 mesas 
 - Instalação simples e discreta, sem necessidade de rede Wi-Fi comercial
 
 ---
