@@ -23,9 +23,11 @@ No lado do atendente, um módulo central recebe as chamadas e as organiza automa
 ## Proposta de Design
   ### Botão - Dispositivo de mesa
   <img src="../media/TapWaiter_conceptual_scheme.png" width="400px">
+  
   _Esquema conceitual do dispositivo de mesa_
   
   <img src="../media/TapWaiter_Case_upper_view.png" width="400px">
+  
   _Visão superior da case_
   
   <img src="../media/TapWaiter_Case_bottom_view.png" width="400px">
