@@ -34,6 +34,16 @@ No lado do atendente, um módulo central recebe as chamadas e as organiza automa
   
   _Visão inferior da case_
 
+  ### 📐 Especificações Físicas
+
+| Elemento           | Dimensão (mm)     |
+|--------------------|-------------------|
+| Largura da case    | 60 mm             |
+| Comprimento da case| 60 mm             |
+| Altura da case     | 35 mm             |
+| Diâmetro do botão  | 16 mm             |
+
+
 
 
 ---
