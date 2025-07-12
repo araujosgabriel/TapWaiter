@@ -21,9 +21,9 @@ No lado do atendente, um módulo central recebe as chamadas e as organiza automa
 ---
 
 ## Proposta de Design
-  <img src="../media/TapWaiter_conceptual_scheme.png" width="600px">
-  <img src="../media/TapWaiter_Case_upper_view.png" width="600px">
-  <img src="../media/TapWaiter_Case_bottom_view.png" width="600px">
+  <img src="../media/TapWaiter_conceptual_scheme.png" width="400px">
+  <img src="../media/TapWaiter_Case_upper_view.png" width="400px">
+  <img src="../media/TapWaiter_Case_bottom_view.png" width="400px">
 
 
 
